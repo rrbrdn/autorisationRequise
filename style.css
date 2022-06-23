@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    padding: 200px;
+}
+
+p {
+    color: white;
+}
+button{
+    background-color: gray;
+    color: white;
+}
+
+.cercle {
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+    border: 5px solid rgba(0, 0, 0, 1);
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+}
+
