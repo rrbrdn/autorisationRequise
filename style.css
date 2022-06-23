@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    padding: 300px;
+}
+
+button{
+    background-color: gray;
+    color: white;
+}
